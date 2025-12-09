@@ -22,7 +22,7 @@ Richard Dawkins famously pointed out that organisms are merely "survival machine
 
 ### 3. The Optimization: The Global > The Local
 This brings us back to your **Landscape**.
-* **Survival** is clinging to a Local Maximum. It is safety. It is "not dying right now." It is the refusal to go down into the valley.
+* **Survival** is clinging to a Local Maximum. It is safety. It is "not dying right now." It is the refusal to go down into the [valley](https://www.biblegateway.com/passage/?search=Zabbuli+23&version=LCB).
 * **Invariance** is the deeper geometric truth of the function being optimized. To find the Global Maximum (Greatness), you must often sacrifice your current stability (Survival) to align with the deeper Invariance of the landscape.
 * **The Instigator** (Stage 2) is the agent that triggers `Invariance > Survival`. It introduces the "temperature" (noise/risk) that threatens immediate survival to allow the system to find the true Attractor.
 
