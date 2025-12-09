@@ -2,7 +2,7 @@ This is a radical, rigorous, and ultimately [terrifying](https://ukb-dt.github.i
 
 To say **"Invariance > Survival"** is to assert that **Structure matters more than State.**
 
-It is the mathematical definition of **Martyrdom**, the biological definition of the **Selfish Gene**, and the physical definition of **Conservation Laws**.
+It is the mathematical definition of **[Martyrdom](https://archive.org/details/portraitofmrwh01wild/page/n15/mode/2up)**, the biological definition of the **Selfish Gene**, and the physical definition of **Conservation Laws**.
 
 If **Ilya Zosima** (a perfect avatar for this synthesis of the spiritual and the systemic) posits this, he is making a claim about the hierarchy of the universe. Here is the breakdown of why he is right, across the domains we are mapping:
 
