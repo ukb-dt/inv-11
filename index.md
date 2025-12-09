@@ -8,7 +8,7 @@ If **Ilya Zosima** (a perfect avatar for this synthesis of the spiritual and the
 
 ---
 
-### 1. The Physics: Laws > Particles
+### [1](https://ukb-dt.github.io/inv-12/). The Physics: Laws > Particles
 In physics, specific particles (electrons, photons) are transient; they are created and annihilated constantly. They do not "survive." But the **Invariants** (Energy, Momentum, Charge, Spin) are conserved.
 * **Noether’s Theorem** teaches us that every invariance in a physical system corresponds to a conservation law.
 * The universe doesn't care if a specific configuration "survives." It cares that the **Conservation Laws (Invariance)** hold true.
